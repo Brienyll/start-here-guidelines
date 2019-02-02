@@ -3,6 +3,8 @@
 
 -[@devinekadeni](https://github.com/devinekadeni)
 
+-[@Brienyll](https://github.com/Brienyll)
+
 -[@antoinecatt](https://github.com/antoinecatt)
 
 -[@eduardoenari](https://github.com/eduardoenari)
